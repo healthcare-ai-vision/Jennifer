@@ -1,1 +1,1 @@
-# WiDS-25---AI-in-Healthcare
+# WiDS-25 : AI-in-Healthcare
