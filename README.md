@@ -10,7 +10,7 @@ Documenting my learning and work in the Winter in Data Science Project 2025 unde
 - [Human Vision, Color Spaces, Transforms](https://www.youtube.com/watch?v=-nt80JUNwlw)
 - [Image Coordinates, Resizing](https://www.youtube.com/watch?v=hpqrDUuk7HY)
 
-### Assignment : 
+### [Assignment](https://github.com/Jaynferrre/WiDS-25_AI-in-Healthcare/blob/368e46210f7be95ac9e003fa35234cab0f9a5f70/AI_in_Healthcare.pdf) : 
 - Write 5 interesting points you learned from the lectures
 - Do a brief research on types of healthcare reports and write about medical imaging reports
 > Find it [here]()
