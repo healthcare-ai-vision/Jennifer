@@ -1,5 +1,5 @@
 # Medical Imaging Datasets - Explorative Analysis
-## [1.Sunnybrook Cardiac Dataset](https://www.kaggle.com/datasets/tarunteja09/sunnybrook-cardiac-sturctured-2d)
+## [1. Sunnybrook Cardiac Dataset](https://www.kaggle.com/datasets/tarunteja09/sunnybrook-cardiac-sturctured-2d)
 - The Sunnybrook Cardiac Dataset is a medical imaging dataset containing cardiac MRI scans from multiple patients. It is widely used for research in cardiac disease classification, segmentation, and early diagnosis.
 - This dataset originates from the Sunnybrook Health Sciences Centre and has been used in various medical imaging challenges. [https://www.cardiacatlas.org/sunnybrook-cardiac-data/]
 - **Type of Imaging Data:** Cardiac MRI (Cine-MRI 2D Slices)
