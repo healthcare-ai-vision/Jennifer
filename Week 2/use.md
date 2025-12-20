@@ -2,7 +2,7 @@ Open neuro dataset [1](https://github.com/OpenNeuroDatasets/ds007022.git)
 
 Open neuro dataset [2](https://github.com/OpenNeuroDatasets/ds003768.git)
 
-2. Brain-wide spatiotemporally distinct traveling waves drive anxiety-like behaviors in mice
+1. LEARNING BRAIN - a longitudinal dataset on neural plasticity dynamics in Braille and music training
 
 - Type of imaging data : Longitudinal collection of resting-state **fMRI** , task-based fMRI, and anatomical T1-weighted images 
 - Number of images : The data was acquired from **60** healthy individuals across **six to seven measurement sessions** (time-points)
